@@ -1,4 +1,4 @@
-# CodeAlpha_ProjectName
+# CodeAlpha_Task
 # Unemployment Analysis with Python
 
 This project is part of my internship task at **CodeAlpha**. It focuses on analyzing unemployment trends in India using Python, with the help of data visualization and exploratory data analysis (EDA) techniques.
